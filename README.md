@@ -2,7 +2,7 @@
 
 > **A modern social platform for sharing ideas, conversations, communities, and creative work.**
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-2e7d32?style=for-the-badge&logo=github)](https://saba1207b.github.io/CodeAlpha_SocialGrove/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-2e7d32?style=for-the-badge&logo=github)](https://saba1207b.github.io/SocialGrove/)
 [![React](https://img.shields.io/badge/React-19-61dafb?style=flat-square&logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178c6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8?style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
@@ -16,7 +16,7 @@
 
 ### 🔗 Live Preview
 Experience the interactive live web application directly on GitHub Pages:
-👉 **[https://saba1207b.github.io/CodeAlpha_SocialGrove/](https://saba1207b.github.io/CodeAlpha_SocialGrove/)**
+👉 **[https://saba1207b.github.io/SocialGrove/](https://saba1207b.github.io/SocialGrove/)**
 
 ---
 
@@ -61,8 +61,8 @@ Experience the interactive live web application directly on GitHub Pages:
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/saba1207B/CodeAlpha_SocialGrove.git
-cd CodeAlpha_SocialGrove
+git clone https://github.com/saba1207B/SocialGrove.git
+cd SocialGrove
 
 # Install dependencies
 pnpm install
@@ -97,7 +97,7 @@ npm run build
 The repository includes automated GitHub Actions deployment to **GitHub Pages** on every push to `main` via [.github/workflows/deploy.yml](.github/workflows/deploy.yml).
 
 To view the live deployment:
-**[https://saba1207b.github.io/CodeAlpha_SocialGrove/](https://saba1207b.github.io/CodeAlpha_SocialGrove/)**
+**[https://saba1207b.github.io/SocialGrove/](https://saba1207b.github.io/SocialGrove/)**
 
 ---
 
