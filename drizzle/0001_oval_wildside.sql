@@ -1,3 +1,6 @@
+-- Copyright (c) 2026 Sabareesh M (saba1207B). All Rights Reserved.
+-- All rights reserved. No public license is granted.
+
 CREATE TABLE `comments` (
 	`id` int AUTO_INCREMENT NOT NULL,
 	`postId` int NOT NULL,
